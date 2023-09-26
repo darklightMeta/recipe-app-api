@@ -4,6 +4,7 @@ Sample tests
 from django.test import SimpleTestCase
 from app import cal
 
+
 class TestCalc(SimpleTestCase):
     def test_add(self):
         res = cal.add(5, 6)
