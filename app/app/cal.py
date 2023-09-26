@@ -2,7 +2,8 @@
 simple calculator
 """
 
-def add(x, y):
+
+def add(x,y):
 
     """
     add function
@@ -10,7 +11,7 @@ def add(x, y):
     return x + y
 
 
-def subtract(x, y):
+def subtract(x,y):
     """
     subtract function
     """
