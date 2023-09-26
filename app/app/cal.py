@@ -1,15 +1,17 @@
 """
 simple calculator
-
 """
 
-
 def add(x, y):
-    """add function"""
+
+    """
+    add function
+    """
     return x + y
 
+
 def subtract(x, y):
-    """subtract function"""
+    """
+    subtract function
+    """
     return x - y
-
-
